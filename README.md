@@ -1,2 +1,5 @@
 # BGGN213
-Class_work
+
+My Class_work for Bioinfromatics class at UCSD.
+
+
